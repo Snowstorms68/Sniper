@@ -1,0 +1,187 @@
+
+[17-08-2022 05:20:56.878] A exception has been caught. (Error: Incorrect login details were provided.)
+[17-08-2022 05:23:41.168] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Lesters FiveM Cheats (1008896168429895812), #╠💬│𝘾𝙃𝘼𝙏 (1008896169260351586), sent at 1660706621 with {no attachments} attached: Where to get Spoofer ? I need unban FiveM
+[17-08-2022 05:24:07.359] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Lesters FiveM Cheats (1008896168429895812), #╠💬│𝘾𝙃𝘼𝙏 (1008896169260351586), sent at 1660706647 with {no attachments} attached: spoofer
+[17-08-2022 05:24:10.026] Nachricht gelöscht: von Sebbo#9437 (1000837488920760421) in Lesters FiveM Cheats (1008896168429895812), #╠💬│𝘾𝙃𝘼𝙏 (1008896169260351586), sent at 1660706647 with {no attachments} attached: spoofer
+[17-08-2022 05:25:29.724] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660706730 with {no attachments} attached: spoofer
+[17-08-2022 05:45:33.970] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660707934 with {no attachments} attached: spoofer
+[17-08-2022 05:45:33.971] A exception has been caught. (ReferenceError: user is not defined)
+[17-08-2022 05:47:53.976] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708074 with {no attachments} attached: spoofer
+[17-08-2022 05:47:53.978] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'tag'))
+[17-08-2022 05:48:12.382] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708092 with {no attachments} attached: spoofer
+[17-08-2022 05:48:12.383] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'tag'))
+[17-08-2022 05:48:29.774] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708110 with {no attachments} attached: spoofer
+[17-08-2022 05:48:29.775] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'tag'))
+[17-08-2022 05:48:36.616] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708117 with {no attachments} attached: spoofer
+[17-08-2022 05:48:36.617] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'id'))
+[17-08-2022 05:48:55.686] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708136 with {no attachments} attached: spoofer
+[17-08-2022 05:48:55.688] A exception has been caught. (TypeError: client.send is not a function)
+[17-08-2022 05:49:09.538] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708150 with {no attachments} attached: spoofer
+[17-08-2022 05:49:09.539] A exception has been caught. (TypeError: client.send is not a function)
+[17-08-2022 05:49:31.139] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708171 with {no attachments} attached: spoofer
+[17-08-2022 05:49:31.140] A exception has been caught. (ReferenceError: send is not defined)
+[17-08-2022 05:52:02.001] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708322 with {no attachments} attached: spoofer
+[17-08-2022 05:52:02.002] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'send'))
+[17-08-2022 05:55:50.863] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708551 with {no attachments} attached: spoofer
+[17-08-2022 05:55:50.864] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'msg'))
+[17-08-2022 05:56:07.330] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708567 with {no attachments} attached: spoofer
+[17-08-2022 05:56:07.331] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'message'))
+[17-08-2022 05:56:18.409] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708578 with {no attachments} attached: spoofer
+[17-08-2022 05:56:18.410] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'send'))
+[17-08-2022 05:56:47.736] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708608 with {no attachments} attached: spoofer
+[17-08-2022 05:56:47.738] A exception has been caught. (TypeError: message is not a function)
+[17-08-2022 05:57:59.475] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708680 with {no attachments} attached: spoofer
+[17-08-2022 05:57:59.476] A exception has been caught. (ReferenceError: user is not defined)
+[17-08-2022 06:00:43.645] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708844 with {no attachments} attached: spoofer
+[17-08-2022 06:00:43.646] A exception has been caught. (TypeError: client.users.fetch is not a function)
+[17-08-2022 06:01:41.983] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660708902 with {no attachments} attached: spoofer
+[17-08-2022 06:02:26.217] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell (1007409073911767171), #Allgemein (1007409074385715301), sent at 1660708946 with {no attachments} attached: spoofer
+[17-08-2022 06:04:52.244] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell (1007409073911767171), #Allgemein (1007409074385715301), sent at 1660709092 with {no attachments} attached: spoofer
+[17-08-2022 06:04:52.495] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709093 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:04:52.652] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:07:08.836] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709229 with {no attachments} attached: spoofer
+[17-08-2022 06:07:09.083] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709229 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:07:09.243] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:07:59.577] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709280 with {no attachments} attached: spoofer
+[17-08-2022 06:07:59.814] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709280 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:07:59.972] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:08:14.240] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709294 with {no attachments} attached: spoofer
+[17-08-2022 06:08:20.212] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709300 with {no attachments} attached: spoofer
+[17-08-2022 06:08:27.753] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709308 with {no attachments} attached: spoofer
+[17-08-2022 06:10:40.065] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709440 with {no attachments} attached: spoofer
+[17-08-2022 06:10:40.367] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709440 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:10:40.521] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:11:16.855] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709477 with {no attachments} attached: spoofer
+[17-08-2022 06:11:17.098] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709477 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:11:17.254] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:12:20.053] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709540 with {no attachments} attached: spoofer
+[17-08-2022 06:12:20.322] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709540 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:12:20.478] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:12:48.269] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709568 with {no attachments} attached: spoofer
+[17-08-2022 06:12:48.516] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709569 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want. https://discord.gg/nmAKjG2bPT
+[17-08-2022 06:12:48.688] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:13:28.119] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709608 with {no attachments} attached: spoofer
+[17-08-2022 06:13:28.444] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709608 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:13:28.609] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:14:06.199] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709646 with {no attachments} attached: spoofer
+[17-08-2022 06:14:06.201] A exception has been caught. (TypeError: msg.author.id.send is not a function)
+[17-08-2022 06:14:20.594] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660709661 with {no attachments} attached: spoofer
+[17-08-2022 06:14:20.864] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660709661 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:14:21.022] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:21:51.175] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710111 with {no attachments} attached: spoofer
+[17-08-2022 06:21:51.387] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710111 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:21:51.539] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:23:47.024] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710227 with {no attachments} attached: spoofer
+[17-08-2022 06:23:47.035] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710227 with {no attachments} attached: spoofer
+[17-08-2022 06:23:47.219] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710227 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:23:47.220] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710227 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:23:47.243] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710227 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:23:47.254] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710227 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:23:47.399] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:23:47.402] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:23:47.551] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:23:47.819] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:24:17.336] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710257 with {no attachments} attached: spoofer
+[17-08-2022 06:24:17.553] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710258 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:24:17.707] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:24:54.000] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710294 with {no attachments} attached: spoofer
+[17-08-2022 06:24:54.222] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710294 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:24:54.382] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:25:26.053] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710326 with {no attachments} attached: spoofer
+[17-08-2022 06:25:26.263] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710326 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:25:26.432] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:30:22.834] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660710623 with {no attachments} attached: spoofer
+[17-08-2022 06:30:23.041] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710623 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:30:23.195] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:31:43.900] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell (1007409073911767171), #Allgemein (1007409074385715301), sent at 1660710704 with {no attachments} attached: spoofer
+[17-08-2022 06:31:44.132] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710704 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:31:44.295] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:32:46.931] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710767 with {no attachments} attached: spoofer
+[17-08-2022 06:32:47.130] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710767 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:32:47.279] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:33:02.114] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710782 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:33:02.418] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710782 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:33:02.576] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:33:42.270] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710822 with {no attachments} attached: spoofer
+[17-08-2022 06:33:42.497] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710823 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:33:42.654] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:34:19.591] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710860 with {no attachments} attached: spoofer
+[17-08-2022 06:34:19.845] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710860 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:34:20.003] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:35:58.639] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710959 with {no attachments} attached: spoofer
+[17-08-2022 06:35:58.836] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710959 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:35:59.004] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:35:59.389] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'toFixed'))
+[17-08-2022 06:36:24.314] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660710984 with {no attachments} attached: spoofer
+[17-08-2022 06:36:24.507] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660710985 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:36:24.669] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:37:09.132] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711029 with {no attachments} attached: spoofer
+[17-08-2022 06:37:09.372] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711029 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:37:09.542] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:37:09.985] A exception has been caught. (ReferenceError: content is not defined)
+[17-08-2022 06:38:14.724] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711095 with {no attachments} attached: spoofer
+[17-08-2022 06:38:14.927] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711095 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:38:15.092] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:38:15.571] A exception has been caught. (ReferenceError: time is not defined)
+[17-08-2022 06:39:24.497] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711165 with {no attachments} attached: spoofer
+[17-08-2022 06:39:24.731] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711165 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:39:24.917] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:39:25.335] A exception has been caught. (ReferenceError: shitdowscompatibility is not defined)
+[17-08-2022 06:41:20.747] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711281 with {no attachments} attached: spoofer
+[17-08-2022 06:41:21.027] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711281 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:41:21.184] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:41:21.588] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'at'))
+[17-08-2022 06:41:34.021] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711294 with {no attachments} attached: spoofer
+[17-08-2022 06:41:34.216] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711294 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:41:34.391] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:41:34.433] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'at'))
+[17-08-2022 06:41:56.860] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660711317 with {no attachments} attached: spoofer
+[17-08-2022 06:41:57.051] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711317 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:41:57.208] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:41:57.604] A exception has been caught. (TypeError: Cannot read properties of undefined (reading 'at'))
+[17-08-2022 06:42:41.929] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Direct Messages, sent at 1660711362 with {no attachments} attached: spoofer
+[17-08-2022 06:42:42.176] Nachricht geschickt: von Sebbo#9437 (1000837488920760421) in Direct Messages, sent at 1660711362 with {no attachments} attached: Hello, i saw you are Searching for a Spoofer. What i can tell you is that Lesters FiveM Cheats Spoofer worked for me. Here is an Invite if you want.
+[17-08-2022 06:42:42.342] A exception has been caught. (DiscordAPIError: Cannot send messages to this user)
+[17-08-2022 06:44:42.693] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711483 with {no attachments} attached: spoofer
+[17-08-2022 06:44:43.453] A exception has been caught. (Error: Received one or more errors)
+[17-08-2022 06:45:13.862] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711514 with {no attachments} attached: spoofer
+[17-08-2022 06:47:11.379] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711631 with {no attachments} attached: spoofer
+[17-08-2022 06:48:10.700] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711691 with {no attachments} attached: spoofer
+[17-08-2022 06:49:16.892] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711757 with {no attachments} attached: spoofer
+[17-08-2022 06:49:41.112] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711781 with {no attachments} attached: spoofer
+[17-08-2022 06:50:24.743] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711825 with {no attachments} attached: spoofer
+[17-08-2022 06:50:41.211] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711841 with {no attachments} attached: spoofer
+[17-08-2022 06:52:41.626] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711962 with {no attachments} attached: spoofer
+[17-08-2022 06:53:07.738] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660711987 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:54:08.483] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712049 with {no attachments} attached: spoofer
+[17-08-2022 06:54:08.484] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712049 with {no attachments} attached: spoofer
+[17-08-2022 06:54:26.626] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712067 with {no attachments} attached: spoofer
+[17-08-2022 06:54:26.656] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712067 with {no attachments} attached: spoofer
+[17-08-2022 06:54:26.851] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712067 with {no attachments} attached: spoofer
+[17-08-2022 06:54:26.857] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712067 with {no attachments} attached: spoofer
+[17-08-2022 06:55:06.498] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712107 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:55:06.499] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712107 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:55:20.894] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712121 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:55:20.895] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712121 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:55:29.123] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712129 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:55:29.144] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712129 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spooferasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:56:02.120] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712162 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 06:56:02.129] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712162 with {no attachments} attached: asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd spoofer
+[17-08-2022 07:00:26.085] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712426 with {no attachments} attached: spoofer
+[17-08-2022 07:00:43.699] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712444 with {no attachments} attached: spoofer
+[17-08-2022 07:00:45.351] Nachricht geschickt: von AlbanischeGrundrecht#6470 (406929191175716864) in Server von BySNoell , #Allgemein , sent at 1660712445 with {no attachments} attached: spoofer
+[17-08-2022 12:07:41.760] Nachricht geschickt: von Snowstorms#6014 (236569059527753730) in Lesters FiveM Cheats , #╠💬│𝘾𝙃𝘼𝙏 , sent at 1660730862 with {no attachments} attached: spoofer
+[17-08-2022 12:07:42.858] A exception has been caught. (DiscordAPIError: captcha-required
+b2b02ab5-7dae-4d6f-830e-7b55634c888b
+hcaptcha
+rMie+2Te0ja1qCIuc/7qVwC3LWNsWZ38UWSDsTMYWFgGVpYaQw+tFO36t5gcLidrovRUZJs3lFy6JsSwcLyUpAdyduKF8JpBzdfoKb5apKx3fFnVqo5Iylb9np1eXDrVu0te3ex8aMHA/e2Vs6Hv+qJQERn2GAwIs/3Ib6Hs
+IkhlRUpCaFE2WkRRd2crRXc0clhBa3FyTmtMamp0WjlLYjV6NlhmK21odE9YMk9nQ3BGZ283WnE2UlJicUJTa25UaG5JNXc9PWk1eHdBM0lRNXQ2c1Bib1Ui.Yvy97w.2vD6ZsYSrmdNBfk8f03synWEOds)
+[17-08-2022 12:10:41.023] Nachricht geschickt: von Snowstorms#6014 (236569059527753730) in Lesters FiveM Cheats , #╠💬│𝘾𝙃𝘼𝙏 , sent at 1660731041 with {no attachments} attached: spoofer
+[17-08-2022 12:11:42.313] Nachricht geschickt: von Snowstorms#6014 (236569059527753730) in Lesters FiveM Cheats , #╠💬│𝘾𝙃𝘼𝙏 , sent at 1660731103 with {no attachments} attached: spoofer
+[17-08-2022 12:15:17.427] Nachricht geschickt: von Snowstorms#6014 (236569059527753730) in Lesters FiveM Cheats , #╠💬│𝘾𝙃𝘼𝙏 , sent at 1660731317 with {no attachments} attached: spoofer
+[17-08-2022 22:10:47.371] Nachricht geschickt: von amk#9531 (935991022914260992) in Lesters FiveM Cheats , #╠💬│𝘾𝙃𝘼𝙏 , sent at 1660767049 with {no attachments} attached: spoofer
+[17-08-2022 22:10:48.623] A exception has been caught. (DiscordAPIError: captcha-required
+b2b02ab5-7dae-4d6f-830e-7b55634c888b
+hcaptcha
+UVCvXKksRD2x0wXt2ly0ma5A9ZtyMpsepMIRDVOanYb9AesYZD85XglqtJs5+5p+A26KMCuS9dKR5uWprHhsT7vqUFz5OOSX54rz0HqpgjHau4SSammxxbQ8e6odsZ2aTSg9RhRP1fi/ArG/F5OCsjM=Fr06rPYY+OqCSJd+
+Ik1xQ3Rsb2NGbHdoS1pUMStuL1RSSGJ4ek1FWVp3dDQwbVBUdkFQajJ4SmFLT1FBZFI0K3hWdnYzZGFZT3RXMmZuclJJOVE9PWFxdW80cFdJYWNaVGt0NEIi.Yv1LSQ.SHVw2sCbjGd_cx3eaYS0qXpZcG4)
